@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="GomokuGame.exe" version="1.0.0.2" publicKeyToken="6161d763a584d4aa" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GomokuGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="GomokuGame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GomokuGame.exe" size="36864">
+      <assemblyIdentity name="GomokuGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>mWwyNwFle1XsgSnbla1HMzcwqxM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="bmpHuman.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OqdoiOOvqF38BmnhFrBTVQtH5To=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpMachine.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>W+DVN76Y9Q6M3vYdTOe0FmSzZAw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpNodeHuman.bmp" size="4734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a2KL8sC0ibISlA1WCf4+ap2RHkc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpNodeMachine.bmp" size="4614">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3PbDV+HZGu4MEbRHzI9OGmEn2rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpNodeNone.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9A9ETEmxIUsHNvyMg8tmCa9+Oms=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpNone.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>E2undk3Ms+nHxUfl7qkz3DxN48o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpOut.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MWspKhxfHc9BrcgeroCFyj3Kjng=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpWebHuman.bmp" size="7350">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5vT1FGmC52GZ7NuTCwkv7r4jgrI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpWebMachine.bmp" size="5598">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7DjAKD9X4EVs3MaTuILgpBuVM2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bmpWebNone.bmp" size="1270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a9k2D5G7g4OpAk7y+1P/1XYea8s=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VINHPC\Vinh Pham" issuerKeyHash="849d093ba633a1badeb3f16a3f4ec78a1abac8b5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>d7ERLOyh42XMJjWdEdoiiLNI/Tg=</DigestValue></Reference></SignedInfo><SignatureValue>EdfLv0S0G3kUxLyDuIJnaSHXfbxiLedNsWNsD5sLV23vo94+0jMNrjGLkKxDmm2deYUwg5fTC+VQ9VhzbNoYdtX1YzSj5k9zY+7+hA8aBPBBwntFTEblsTgI76i5+K6DBaxcJPi+FVGsTe2DVHhkWdDcn9Islh80o086CPGZNIc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vZ6YZDUdhxPTKkPs6gE3Bz4ybd6R4Jy7FAmdkjI3oRUFkJjKTV7TAJ2MF4plVYEcH2C4I1CGDOuCxkUdjIp0DUj4qzRw4FeDV6oWv+XXZLOWY5MMDNh0iAuWPopV0qQMbEF9C0MJnm63q3xPGxNPZMyrhay0Tb44bxdDc/WbGG8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="38fd48b38822da119d3526cc65e3a1ec2c11b177" Description="" Url=""><as:assemblyIdentity name="GomokuGame.exe" version="1.0.0.2" publicKeyToken="6161d763a584d4aa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VINHPC\Vinh Pham</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3SloWz5WEiynTB3n8iV8TRE7QXw=</DigestValue></Reference></SignedInfo><SignatureValue>K7nrEJI7aFRqQwb83VlXrfxyk5ToaRATYn8y2jliJdPvVYaaG8Vt4GcCqa3WFSVD6UkwfAKO+tibQIjOIXcNmsGeSI04Yv7QCkkrNdb2WyiJA0+GNuVfKYAJXfJa7HYRPLoVHju5k3+kLn1KDw5eKjPzIYgrZ6q6dl28vbbsCrc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vZ6YZDUdhxPTKkPs6gE3Bz4ybd6R4Jy7FAmdkjI3oRUFkJjKTV7TAJ2MF4plVYEcH2C4I1CGDOuCxkUdjIp0DUj4qzRw4FeDV6oWv+XXZLOWY5MMDNh0iAuWPopV0qQMbEF9C0MJnm63q3xPGxNPZMyrhay0Tb44bxdDc/WbGG8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCAT6gAwIBAgIQR8v3dAiRJLFEMZl+xcLzDDAJBgUrDgMCHQUAMCsxKTAnBgNVBAMeIABWAEkATgBIAFAAQwBcAFYAaQBuAGgAIABQAGgAYQBtMB4XDTA2MDExMDE1MjY1OFoXDTA3MDExMDIxMjY1OFowKzEpMCcGA1UEAx4gAFYASQBOAEgAUABDAFwAVgBpAG4AaAAgAFAAaABhAG0wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL2emGQ1HYcT0ypD7OoBNwc+Mm3ekeCcuxQJnZIyN6EVBZCYyk1e0wCdjBeKZVWBHB9guCNQhgzrgsZFHYyKdA1I+Ks0cOBXg1eqFr/l12SzlmOTDAzYdIgLlj6KVdKkDGxBfQtDCZ5ut6t8TxsTT2TMq4WstE2+OG8XQ3P1mxhvAgMBAAEwCQYFKw4DAh0FAAOBgQCBTnLwitEltFnesKKNviJh6G+zajiqhGNS7Xemj+OweClJio8GCutbilMjP3iMH8/hVZsM6tJh57z6RPQecrrwUR5yd8JUo0kHSvf1RUJQ9dLuYBZsy4J6He31T494LWlg1F8EFt7UV7lssUapA9E80ZZh6HOw5aCeXdP7q0DbeQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,8 @@
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\Caro.csprojAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\GomokuGame.frmMain.resources
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\GomokuGame.frmOption.resources
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\GomokuGame.Properties.Resources.resources
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\Caro.csproj.GenerateResource.cache
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\Caro.csproj.CoreCompileInputs.cache
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\GomokuGame.exe
+C:\Users\HoangTuan\Desktop\AI-master\Nhom 4_caro\thuyettrinhc#\Ca ro\Backup\GomokuGame\obj\Release\GomokuGame.pdb

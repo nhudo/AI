@@ -1,0 +1,13 @@
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.exe
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.pdb
+C:\thuyettrinhc#\Ca ro\GomokuGame\bin\Debug\GomokuGame.exe.manifest
+C:\thuyettrinhc#\Ca ro\GomokuGame\bin\Debug\GomokuGame.application
+C:\thuyettrinhc#\Ca ro\GomokuGame\bin\Debug\GomokuGame.exe
+C:\thuyettrinhc#\Ca ro\GomokuGame\bin\Debug\GomokuGame.pdb
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\ResolveAssemblyReference.cache
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.frmMain.resources
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.frmOption.resources
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.Properties.Resources.resources
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.exe.manifest
+C:\thuyettrinhc#\Ca ro\GomokuGame\obj\Debug\GomokuGame.application
